@@ -1,0 +1,98 @@
+.principalPage{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 4rem 3rem;
+    gap: 1rem;
+    align-items: center;
+    background-color: #F5F7FA;
+}
+
+.principalPage_left h1{
+    font-weight: 600;
+    font-size: 3rem;
+    color: #4D4D4D;
+}
+.principalPage_left span{
+    font-weight: 600;
+    font-size: 3rem;
+    color: #4CAF4F;
+}
+.principalPage_left h2{
+    font-weight: 400;
+    font-size: 1rem;
+    color: #717171;
+}
+.principalPage_left .register{
+    color: white;
+    padding: 0.8rem 1.6rem;
+    margin: 1rem 0;
+    background: #4CAF4F;
+    border-radius: 5px;
+    border: #4CAF4F;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+.firstImage{
+    width: 391px;
+    margin: 0 auto;
+}
+
+.clients{
+    text-align: center;
+    padding: 1rem;
+}
+.clients h1{
+    color: #4D4D4D;
+    font-weight: 600;
+    font-size: 2.2rem;
+}
+.clients h2{
+    font-weight: 400;
+    font-size: 1rem;
+    color: #717171;
+}
+
+.community{
+    text-align: center;
+    padding: 1rem;
+}
+.community h1{
+    color: #4D4D4D;
+    font-weight: 600;
+    font-size: 2.2rem;
+    margin: 0 auto;
+    width: 542px;
+}
+.community h2{
+    font-weight: 400;
+    font-size: 1rem;
+    color: #717171;
+}
+
+.community .who{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+    margin: 1rem;
+    gap: 2rem;
+}
+.who h1{
+    font-weight: 700;
+    font-size: 1.8rem;
+    color: #4D4D4D;
+    width: 246px;
+    margin: 0 auto;
+}
+.who h2{
+    margin: 1rem;
+    font-weight: 400;
+    font-size: 0.9rem;
+    color: #717171;
+}
+.who img{
+    width: 65px;
+}
+.who .options{
+    padding: 2rem;
+}

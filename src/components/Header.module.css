@@ -1,0 +1,51 @@
+*{
+    font-family: 'Inter', sans-serif ;
+}
+
+.header{
+   padding: 1.5rem 2.5rem; 
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background-color: #F5F7FA;
+}
+
+.logo{
+    width: 105px;
+}
+
+.nav_options{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+.nav_options a{
+    text-decoration: none;
+    font-size: 0.9rem;
+    color: black;
+}
+.nav_options a:hover{
+    font-weight: 500;
+}
+
+.user{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+.login{
+    text-decoration: none;
+    border: 0;
+    background: none;
+    color: #4CAF4F;
+}
+
+.signup{
+    color: white;
+    padding: 0.5rem 0.8rem;
+    background: #4CAF4F;
+    border-radius: 5px;
+    border: #4CAF4F;
+}
