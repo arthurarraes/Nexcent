@@ -1,7 +1,7 @@
 # Landing Page Empresarial - Front-end (React + TypeScript)
 Bem-vindo à Landing Page Empresarial, uma página de destino desenvolvida utilizando React e TypeScript. Este repositório contém o código fonte do front-end da landing page para uma empresa fictícia.
 
-https://ecommercce.vercel.app/
+https://nexcent.netlify.app/
 
 <img src='https://github.com/arthurarraes/Nexcent/blob/main/Website-photo.png'>
 
